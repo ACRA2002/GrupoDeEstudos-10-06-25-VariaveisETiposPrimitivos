@@ -11,7 +11,6 @@ public class BalancoTrimestral {
 
         System.out.println("Gasto total do trimestre = " + gastosTrimestre);
  
-
 //2ªQuestão:
 
         int mediaMensal = gastosTrimestre / 3;
